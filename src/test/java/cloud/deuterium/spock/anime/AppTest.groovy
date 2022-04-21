@@ -7,8 +7,6 @@ import spock.lang.Specification
 
 /**
  * Created by Milan Stojkovic 20-Apr-2022
- * https://spockframework.org/spock/docs/1.3/all_in_one.html#_spock_web_console
- * https://spockframework.org/spock/docs/1.3/module_spring.html
  */
 
 @SpringBootTest
